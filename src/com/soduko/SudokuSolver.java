@@ -12,7 +12,7 @@ public class SudokuSolver {
 			input = parseArgs(args);
 		}
 
-	    	System.out.println("Selected Input:");
+	 	System.out.println("Selected Input:");
 		printMatrix(input);
 		System.out.println("===");
 
